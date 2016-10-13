@@ -2,3 +2,8 @@ void func1()
 	{
 	//Do some things...
 	}
+	
+void func3()
+	{
+	//Do the third thing...
+	}
