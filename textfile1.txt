@@ -2,3 +2,8 @@ void func1()
 	{
 	//Do some things...
 	}
+	
+int experiment(int val)
+	{
+	//an experiment...
+	}
