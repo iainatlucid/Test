@@ -7,3 +7,8 @@ void func3()
 	{
 	//Do the third thing...
 	}
+	
+int experiment(int val)
+	{
+	//an experiment...
+	}
