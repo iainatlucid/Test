@@ -17,3 +17,8 @@ void func4()
 	{
 	//things...
 	}
+	
+void func5()
+	{
+	//more things
+	}
