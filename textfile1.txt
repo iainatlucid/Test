@@ -12,3 +12,8 @@ int experiment(int val)
 	{
 	//an experiment...
 	}
+
+void func4()
+	{
+	//things...
+	}
