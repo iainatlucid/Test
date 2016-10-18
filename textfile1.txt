@@ -27,3 +27,11 @@ void func6()
 	{
 	//more things
 	}
+void func7()
+	{
+	//more things
+	}
+void func8()
+	{
+	//more things
+	}
