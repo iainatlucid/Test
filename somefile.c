@@ -22,7 +22,12 @@ void funcC(void)
 
 void funcD(void)
 	{
-	cprintf("This is function %c\n",43);
+	cprintf("This is function %c\n",44);
+	}
+
+void funcE(void)
+	{
+	cprintf("This is function %c\n",45);
 	}
 
 int main(void)
@@ -37,4 +42,7 @@ int main(void)
 	func1();
 	func2();
 	funcD();
+	func1();
+	func2();
+	funcE();
 	}
