@@ -20,4 +20,5 @@ int main(void)
 	cprintf("%s","this is a string\r\n");
 	func1();
 	func2();
+	funcB();
 	}
