@@ -20,6 +20,11 @@ void funcC(void)
 	cprintf("This is function %c\n",43);
 	}
 
+void funcD(void)
+	{
+	cprintf("This is function %c\n",43);
+	}
+
 int main(void)
 	{
 	cprintf("%s","this is a string\r\n");
@@ -29,4 +34,7 @@ int main(void)
 	func1();
 	func2();
 	funcC();
+	func1();
+	func2();
+	funcD();
 	}
