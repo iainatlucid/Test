@@ -35,3 +35,11 @@ void func8()
 	{
 	//more things
 	}
+void func9()
+	{
+	//more things
+	}
+void func10()
+	{
+	//more things
+	}
