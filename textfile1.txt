@@ -22,3 +22,8 @@ void func5()
 	{
 	//more things
 	}
+
+void func6()
+	{
+	//more things
+	}
