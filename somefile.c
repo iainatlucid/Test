@@ -10,9 +10,9 @@ void func2(void)
 	cprintf("This is function %d\n",2);
 	}
 
-void funcB(void)
+void funcA(void)
 	{
-	cprintf("This is function %c\n",42);
+	cprintf("This is function %c\n",41);
 	}
 
 int main(void)
@@ -20,5 +20,7 @@ int main(void)
 	cprintf("%s","this is a string\r\n");
 	func1();
 	func2();
-	funcB();
+	funcA();
+	func1();
+	func2();
 	}
